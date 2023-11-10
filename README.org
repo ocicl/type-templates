@@ -4,6 +4,6 @@ A library for defining and expanding templated functions
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/Shinmera/type-templates.git |
-| commit  | 60a2c35                                            |
+| commit  | b94d248                                            |
 | systems | type-templates                                     |
 |---------+----------------------------------------------------|
