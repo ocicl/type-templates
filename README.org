@@ -3,7 +3,7 @@
 A library for defining and expanding templated functions
 
 |---------+----------------------------------------------------|
-| source  | git:https://github.com/Shinmera/type-templates.git |
-| commit  | 4531f7c                                            |
+| source  | git:https://codeberg.org/shinmera/type-templates.git |
+| commit  | 0000000                                            |
 | systems | type-templates                                     |
 |---------+----------------------------------------------------|
